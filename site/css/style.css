@@ -62,10 +62,13 @@
       width: 80%;
     }
     #p2 {
-      width: 150px;
-      height: 150px;
+      width: 80%;
     }
-  }
+    #p3 {
+        width: 80%;
+    }
+    }
+  
   
   
   /********** Medium devices only **********/
@@ -74,10 +77,9 @@
       width: 50%;
     }
     #p2 {
-      width: 100px;
-      height: 100px;
+        width: 80%;
     }
-    body {
-      background-color: blue;
+    #p3 {
+        width: 80%;
     }
   }
