@@ -4,6 +4,7 @@
     overflow: auto;
     padding: 0 40px;
   }
+
   
   .flex {
     display: flex;
@@ -43,8 +44,8 @@
   }
   
   .card {
-    background-color: #fff;
-    color: #333;
+    background-color: rgb(83, 82, 82);
+    color: #ffffff;
     border-radius: 5px;
     padding: 20px;
     margin: 10px;
