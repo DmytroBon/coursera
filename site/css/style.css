@@ -49,15 +49,15 @@ body{
 }
 
 #title-one {
-  background-color: #D59898;
+  background-color: pink;
 } 
 
 #title-two{
-  background-color: #C14543;
+  background-color: lightcoral;
 }
 
 #title-three{
-  background-color: #E5D198;
+  background-color: lightgreen;
 }
 
 /* Simple Responsive Framework. */
